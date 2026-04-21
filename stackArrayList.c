@@ -4,6 +4,8 @@
  * @brief Provides an implementation of the ADT Stack with an array list
  * as the underlying data structure.
  * 
+ * To just use the ADT Stack no knowledge of this implementation is necessary!
+ * 
  * @author Bruno Silva (brunomnsilva@gmail.com)
  * @bug No known bugs.
  */
